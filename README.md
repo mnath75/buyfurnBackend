@@ -49,8 +49,9 @@ Make sure you have the following installed:
 ## Getting Started
 
 1. **Clone the repository**:
-   ```bash
+ ```bash
    git clone https://github.com/mnath75/buyfurnBackend.git
+```
 2. **Navigate to the project directory**:
 ```bash
    cd buyfurnBackend
