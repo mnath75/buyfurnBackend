@@ -8,6 +8,13 @@
       "type": "java",
       "name": "Main",
       "request": "launch",
+      "mainClass": "com.buyfurn.Main",
+      "projectName": "spring-boot-my-project"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
       "mainClass": "com.example.Main",
       "projectName": "spring-boot-my-project"
     },
